@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://extendsclass.com/json-storage.html
 common:
+  - type: DomainSecurity
+    url: security/extendsclass-json-storage-domain-security.yml
   - type: Website
     url: https://extendsclass.com/json-storage.html
   - type: PublicAPIsListing
