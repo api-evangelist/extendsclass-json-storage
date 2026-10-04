@@ -39,7 +39,6 @@ apis:
   - name: ExtendsClass JSON Storage
     description: "A simple JSON store API"
     humanURL: https://extendsclass.com/json-storage.html
-    baseURL: https://extendsclass.com/json-storage.html
     tags:
       - Development
     properties:
