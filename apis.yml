@@ -27,7 +27,7 @@ description: "A simple JSON store API"
 url: https://extendsclass.com/json-storage.html
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Development"
 x-tier: 3
@@ -45,6 +45,8 @@ apis:
       - type: Documentation
         url: https://extendsclass.com/json-storage.html
 common:
+  - url: https://extendsclass.com/blog/
+    type: Blog
   - type: DomainSecurity
     url: security/extendsclass-json-storage-domain-security.yml
   - type: Website
